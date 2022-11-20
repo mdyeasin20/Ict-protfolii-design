@@ -1,0 +1,11 @@
+.myclass{
+    margin:0;
+    background: 
+    linear-gradient(to right, rgb(122, 106, 106) 45%,rgb(29, 29, 139) 45%);
+    height: 100vh;
+    text-align: center;
+    color: rgb(77, 30, 153);
+}
+h1{
+    align-items: center;
+}
